@@ -1,0 +1,60 @@
+﻿,,Coke /Coke BIB/FCB,Diet Coke/Diet Coke BIB,Caffeine Free Diet Coke,Coca Cola Zero/BIB,Coca Cola Move,Coca Cola Zero Sugar Move,Sprite/Sprite BIB/FCB,Sprite Zero/Sprite Zero BIB/FCB,Sprite Lymonade,Sprite Ginger,Sprite Tropical Mix,Fanta Orange/Fanta Orange BIB/FCB,Fanta Grape/Fanta Grape FCB,Fanta Piña,Fanta Berry,Dr. Pepper,CD Ginger Ale Cranberry,CD Ginger Ale,OC Uva,OC Diet Uva,OC Piña,Coco Rico,Diet Coco Rico,OK Kola,OK Kola Diet,Orange Crush,Piña Buena,Piña Buena Dieta,Seagram's Club Soda,Seagram's Tonica Water,Seagram's Ginger Ale,Del Valle Refresh Lemonade,Del Valle Refresh Fruit Punch,Fresca Can/BIB,Fuze Lemon Black Tea (Fuze Ice Tea),Dasani PET,Dasani CAN,Dasani Sparkling Lime,Dasani Sparkling Berry,AHA Blueberry Pomegranate,AHA Lime Watermelon,AHA Peach Honey,AHA Strawberry Cucumber,Hawaiian Punch,Sunny Delight (Citrus Pucnh),Nikini,Tampico Citrus Punch,Tampico Tropical Punch,Fuze Black Tea Lemon BIB,Fuze Raspberry Tea BIB,MM Lemonade BIB,HI-C Fruit Punch BIB,Cranberry Flavorful BIB,Orange Flavorful BIB,Sweet & Sour Flavorful BIB,Fanta Kiwi Strawberry FCB,Fanta Blue Raspberry FCB,Fanta Mango FCB
+,,,,,,,,,,,P,P,,P,P,P,,,,P,P,P,,,P,,,P,,,,,,P,S,,,,,P,,,,,,,,,,,,,,,,,,,
+Coke/Coke BIB / FCB,,X,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,3,3,3,5,5,3,3,3,3,3,3,5,5,5,3,3,3,3,3,3,1,1,1,1,1,1
+Diet Coke/Diet Coke BIB,,1,X,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,3,3,3,5,5,3,3,3,3,3,3,5,5,5,3,3,3,3,3,3,1,1,1,1,1,1
+Caffeine Free Diet Coke,,1,1,X,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,3,3,3,5,5,3,3,3,3,3,3,5,5,5,3,3,X,X,X,X,X,X,X,X,X,X
+Coca Cola Zero / BIB,,1,1,1,X,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,3,3,3,5,5,3,3,3,3,3,3,5,5,5,3,3,1,3,1,1,1,1,1,1,1,1
+Coca Cola Move,P,3,3,3,3,X,1,3,3,3,X,1,3,1,3,1,3,1,1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,5,5,5,5,5,5,5,5,5,5,5,3,3,X,X,X,X,3,3,3,1,1,1
+Coca Cola Zero Sugar Move,P,3,3,3,3,3,X,3,3,3,X,1,3,1,3,1,3,1,1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,5,5,5,5,5,5,5,5,5,5,5,3,3,X,X,X,X,3,3,3,1,1,1
+Sprite/Sprite BIB / FCB,,1,1,1,1,1,1,X,1,1,1,X,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,3,3,3,5,5,3,3,3,3,3,3,5,5,5,3,3,3,3,3,1,1,1,1,1,1,1
+Sprite Zero/Sprite Zero BIB / FCB,,1,1,1,1,1,1,1,X,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,3,3,3,5,5,3,3,3,3,3,3,5,5,5,3,3,3,3,3,1,1,1,1,1,1,1
+Sprite Lymonade,,1,1,1,1,1,1,1,1,X,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,3,3,3,5,5,3,3,3,3,3,3,5,5,5,3,3,3,3,3,1,1,1,1,1,1,1
+Sprite Ginger,P,3,3,3,3,3,3,3,3,3,X,1,3,1,3,1,3,1,1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,5,5,5,5,5,5,5,5,5,5,5,3,3,X,X,X,X,3,3,3,1,1,1
+Sprite Tropical Mix,P,5,5,5,5,5,5,5,5,5,5,X,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Fanta Orange/Fanta Orange BIB / FCB,,1,1,1,1,1,1,1,1,1,1,1,X,1,1,1,1,1,1,1,1,1,1,1,1,1,X,1,1,1,1,1,3,3,3,3,5,5,3,3,3,3,3,3,5,5,5,3,3,3,3,3,1,1,1,1,1,1,1
+Fanta Grape/Fanta Grape FCB,P,3,3,3,3,3,3,3,3,3,3,3,3,X,3,1,1,3,3,1,3,3,3,3,1,3,3,3,3,3,3,3,3,3,3,3,5,5,3,3,3,3,3,3,5,5,5,3,3,3,3,3,3,X,X,X,3,3,3
+Fanta Piña,P,3,3,3,3,3,3,3,3,3,3,3,3,1,X,1,1,3,3,1,1,1,3,3,1,1,3,1,1,3,3,3,3,3,3,3,5,5,3,3,3,3,3,3,5,5,5,3,3,X,X,X,X,X,X,X,X,X,X
+Fanta Berry,P,3,3,3,3,3,3,3,3,3,3,3,3,1,3,X,3,3,3,1,1,3,3,3,3,1,3,3,3,3,3,3,3,3,3,3,5,5,5,5,5,5,5,5,5,5,5,3,3,X,X,X,X,X,X,X,X,X,X
+Dr. Pepper,P,3,3,3,3,3,3,3,3,3,3,3,3,3,3,1,X,3,3,3,1,3,3,3,1,1,3,3,3,3,3,3,3,3,3,3,5,5,3,3,3,3,3,3,5,5,5,3,3,X,X,X,X,X,X,X,X,X,X
+CD Ginger Ale Cranberry,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,X,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,3,3,3,5,5,3,3,3,3,3,3,5,5,X,3,3,X,X,X,X,X,X,X,X,X,X
+CD Ginger Ale,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,X,1,1,1,1,1,1,1,1,1,1,1,1,1,3,3,3,3,5,5,3,3,3,3,3,3,5,5,X,3,3,X,X,X,X,X,X,X,X,X,X
+OC Uva ,P,3,3,3,3,3,3,3,3,3,3,3,3,1,3,1,1,3,3,X,1,3,3,3,1,1,3,3,3,3,3,3,3,3,3,3,5,5,3,3,3,3,3,3,5,5,5,3,3,X,X,X,X,X,X,X,X,X,X
+OC Diet Uva,P,3,3,3,3,3,3,3,3,3,3,3,3,1,3,1,1,3,3,1,X,1,3,3,1,1,3,3,3,3,3,3,3,3,3,3,5,5,3,3,3,3,3,3,5,5,5,3,3,X,X,X,X,X,X,X,X,X,X
+OC Piña,P,3,3,3,3,3,3,3,3,3,3,3,1,1,1,1,1,3,3,1,1,X,3,3,1,1,1,1,1,3,3,3,3,3,3,3,5,5,3,3,3,3,3,3,5,5,5,3,3,X,X,X,X,X,X,X,X,X,X
+Coco Rico,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,X,1,1,1,1,1,1,1,1,1,3,3,3,3,5,5,3,3,3,3,3,3,5,5,5,3,3,X,X,X,X,X,X,X,X,X,X
+Diet Coco Rico,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,X,1,1,1,1,1,1,1,1,3,3,3,3,5,5,3,3,3,3,3,3,5,5,5,3,3,X,X,X,X,X,X,X,X,X,X
+OK Kola,P,3,3,3,3,3,3,3,3,3,3,3,3,3,3,1,1,3,3,3,3,3,3,3,X,1,3,3,3,3,3,3,3,3,3,3,5,5,3,3,3,3,3,3,5,5,5,3,3,X,X,X,X,X,X,X,X,X,X
+OK Kola Diet,P,3,3,3,3,3,3,3,3,3,3,3,3,3,3,1,1,3,3,3,3,3,3,3,1,X,3,3,3,3,3,3,3,3,3,3,5,5,3,3,3,3,3,3,5,5,5,3,3,X,X,X,X,X,X,X,X,X,X
+Orange Crush,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,X,1,1,1,1,1,3,3,3,3,5,5,3,3,3,3,3,3,5,5,5,3,3,3,3,3,1,1,1,1,1,1,1
+Piña Buena,,1,3,3,3,3,3,3,3,3,3,3,1,1,1,1,1,3,3,1,1,1,3,3,1,1,1,X,1,3,3,3,3,3,3,3,5,5,3,3,3,3,3,3,5,5,5,3,3,X,X,X,X,X,X,X,X,X,X
+Piña Buena Dieta,,1,1,1,1,1,1,1,1,3,3,1,1,1,1,1,1,3,3,1,1,1,3,3,1,1,1,1,X,3,3,3,3,3,3,3,5,5,3,3,3,3,3,3,5,5,5,3,3,X,X,X,X,X,X,X,X,X,X
+Seagream's Club Soda,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,X,1,1,3,3,3,3,5,5,3,3,3,3,3,3,5,5,X,3,3,X,X,X,X,X,X,X,X,X,X
+Seagream's Tonic Water,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,X,1,3,3,3,3,5,5,3,3,3,3,3,3,5,5,X,3,3,X,X,X,X,X,X,X,X,X,X
+Seagream's Ginger Ale,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,X,3,3,3,3,5,5,3,3,3,3,3,3,5,5,X,3,3,X,X,X,X,X,X,X,X,X,X
+Del Valle Refresh Lemonade,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,X,1,3,3,5,5,3,3,3,3,3,3,5,1V,5,1,1,X,X,X,X,X,X,X,X,X,X
+Del Valle Refresh Fruit Punch,P,1,3,3,3,3,3,3,3,3,3,3,1,1,1,1,1,3,3,1,1,1,1,1,1,1,1,1,1,3,3,3,3,X,3,3,5,5,3,3,3,3,3,3,5,1V,5,X,X,X,X,X,X,X,X,X,X,X,X
+Fresca / BIB,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,X,1,5,5,5,5,5,5,5,5,5,5,5,1,1,1,1,1,1,1,1,1,1,1,1
+Fuze Lemon Black Tea (Fuze Ice Tea),,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,3,1,1,1,1,1,1,1,1,1,1,3,3,3,1,1,3,X,5,5,3,3,3,3,3,3,5,1V,5,1,1,X,X,X,X,X,X,X,X,X,X
+*DASANI PET * Ver nota,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1/3,1/3,1/3,1/3,X,X,X,X,X,X,X,X,5,5,1,1/3,1/3,X,X,X,X,X,X,X,X,X,X
+Dasani CAN,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,X,1,X,X,1,1,1,1,1,1,1,1,1,1,1,X,X,X,X,X,X,X,X,X,X
+Dasani Sparkling Lime,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,5,X,1,X,1,1,1,5,5,1,1,1,X,X,X,X,X,X,X,X,X,X
+Dasani Sparkling Berry,P,3,3,3,3,3,3,3,3,3,3,3,3,1,3,3,1,3,3,1,1,3,3,3,1,1,3,3,3,3,3,3,3,3,3,3,3,5,3,X,3,3,3,3,5,5,1,1,1,X,X,X,X,X,X,X,X,X,X
+AHA Blueberry Pomegranate,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,3,1,3,X,5,1,1,X,1,1,1,5,5,1,1,1,X,X,X,X,X,X,X,X,X,X
+AHA Lime Watermelon,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,3,1,3,X,5,1,1,1,X,1,1,5,5,1,1,1,X,X,X,X,X,X,X,X,X,X
+AHA Peach Honey,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,3,1,3,X,5,1,1,1,1,X,1,5,5,1,1,1,X,X,X,X,X,X,X,X,X,X
+AHA Strawberry Cucumber,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,3,1,3,X,5,1,1,1,1,1,X,5,5,1,1,1,X,X,X,X,X,X,X,X,X,X
+Hawaiian Punch,P,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,1,1,3,3,3,3,3,3,3,3,3,3,5,5,3,3,3,3,3,3,X,5,5,3,3,X,X,X,X,X,X,X,X,X,X
+Sunny Delight (Citrus Punch),P,3,3,3,3,3,3,3,3,3,3,3,3,3,3,1,1,3,3,3,3,3,3,3,1,1,3,1,3,3,3,3,3,3,3,3,5,5,3,3,3,3,3,3,1,X,5,3,3,X,X,X,X,X,X,X,X,X,X
+Nikini,,1,1,X,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,P,3,3,1,3,1,1,X,X,X,X,X,X,5,5,X,3,3,X,X,X,X,X,X,X,X,X,X
+Tampico Citrus Punch,P,1,3,3,3,3,3,3,3,3,3,1,1,1,1,1,1,3,3,1,1,1,1,1,1,1,1,1,1,3,3,3,3,1,X,3,5,5,3,3,3,3,3,3,5,1V,5,X,1,X,X,X,X,X,X,X,X,X,X
+Tampico Tropical Punch,P,1,3,3,3,3,3,3,3,3,3,1,1,1,1,1,1,3,3,1,1,1,1,1,1,1,1,1,1,3,3,3,3,1,X,3,5,5,3,3,3,3,3,3,5,1V,5,1,X,X,X,X,X,X,X,X,X,X,X
+Fuze Black Tea Lemon BIB,,1,1,X,1,1,1,1,1,1,1,1,1,1,X,X,X,X,X,X,X,X,X,X,X,X,1,X,X,X,X,X,X,X,3,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,1,1,1,1,1,1,1,1
+Fuze Raspberry Tea BIB,,1,1,X,1,1,1,1,1,1,X,1,1,1,X,X,X,X,X,X,X,X,X,X,X,X,1,X,X,X,X,X,X,X,3,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,3,1,1,1,1,1,1,1
+MM Lemonade BIB,,1,1,X,1,1,1,1,1,1,X,1,1,1,X,X,X,X,X,X,X,X,X,X,X,X,1,X,X,X,X,X,X,X,3,X,X,X,X,X,X,X,X,X,X,X,X,X,X,1,3,X,1,1,1,1,1,1,1
+HI-C Fruit Punch BIB,P,1,1,X,X,X,X,3,3,1,X,3,1,1,X,X,X,X,X,X,X,X,X,X,X,X,1,X,X,X,X,X,X,X,3,X,X,X,X,X,X,X,X,X,X,X,X,X,X,3,3,3,X,1,1,1,1,1,1
+Cranberry Flavorful BIB,P,3,3,X,3,3,3,3,3,X,X,X,3,1,X,X,X,X,X,X,X,X,X,X,X,X,3,X,X,X,X,X,X,X,3,X,X,X,X,X,X,X,X,X,X,X,X,X,X,3,3,3,1,X,1,1,3,3,3
+Orange Flavorful BIB,P,3,3,X,3,3,3,X,3,X,X,X,3,3,X,X,X,X,X,X,X,X,X,X,X,X,3,X,X,X,X,X,X,X,3,X,X,X,X,X,X,X,X,X,X,X,X,X,X,3,3,3,1,1,X,1,3,3,3
+Sweet & Sour Flavorful BIB,P,3,3,X,3,3,3,X,3,X,X,X,3,3,X,X,X,X,X,X,X,X,X,X,X,X,3,X,X,X,X,X,X,X,3,X,X,X,X,X,X,X,X,X,X,X,X,X,X,3,3,3,1,1,1,X,3,3,3
+Fanta Kiwi Strawberry FCB,P,3,3,X,3,3,3,3,3,3,X,3,1,1,X,X,X,X,X,X,X,X,X,X,X,X,1,X,X,X,X,X,X,X,3,X,X,X,X,X,X,X,X,X,X,X,X,X,X,3,3,3,1,1,1,1,X,1,1
+Fanta Blue Raspberry FCB,P,3,3,X,3,3,3,3,3,3,X,3,1,1,X,X,X,X,X,X,X,X,X,X,X,X,1,X,X,X,X,X,X,X,3,X,X,X,X,X,X,X,X,X,X,X,X,X,X,3,3,3,1,1,1,1,1,X,X
+Fanta Mango FCB,P,3,3,X,3,3,3,3,3,3,X,3,1,1,X,X,X,X,X,X,X,X,X,X,X,X,1,X,X,X,X,X,X,X,3,X,X,X,X,X,X,X,X,X,X,X,X,X,X,3,3,3,1,1,1,1,1,1,X
